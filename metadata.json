@@ -1,0 +1,6 @@
+{
+  "name": "Dukaan Hisab",
+  "description": "Cash note counter and money transfer agent settlement manager with WhatsApp sharing for shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
